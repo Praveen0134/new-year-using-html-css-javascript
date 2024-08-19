@@ -1,0 +1,32 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #282c34;
+    margin: 0;
+    color: #fff;
+    font-family: Arial, sans-serif;
+}
+
+.countdown {
+    text-align: center;
+}
+
+#timer {
+    font-size: 2rem;
+}
+
+.time-section {
+    margin: 10px;
+}
+
+.hidden {
+    display: none;
+}
+
+#message {
+    font-size: 2rem;
+    margin-top: 20px;
+    color: #ffd700;
+}
